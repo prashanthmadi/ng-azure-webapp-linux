@@ -1,4 +1,8 @@
-# NgAzureWal
+# Run Angular2 App in Azure Web App for Containers
+
+In Below link, i have provided details on how to run React App. Similar approach has been used for this app too.
+https://prmadi.com/running-react-app-in-app-service-linux/
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.2.
 
